@@ -38,6 +38,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
 
 <br>
+
 ## __Section II - League Dues__ ##
 
 ### Entry Fee ###
