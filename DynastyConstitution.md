@@ -199,7 +199,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
         <td>-2<br>6</td>
       </tr>
       <tr>
-        <td>Kicking __TBD__ </td>
+        <td>Kicking **TBD** </td>
         <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-30 Yard) (FG0)<br>Yd per Field Goal Made (30 Yd+)<br>Field Goal Missed < 50 Yds (FGM)<br>Field Goal Missed > 50 Yds (FGM)</td>
         <td>1<br>3<br>0.1<br>-1<br>0</td>
       </tr>
