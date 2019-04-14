@@ -89,7 +89,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
    K | 1 | No Limit
    BE | 16 | No Limit
    IR | 2 | No Limit
-   TAXI | 5 | R + 2nd Yr Only
+   TAXI | 5 | R + 2nd YR Only
 
 
 <br><br>
