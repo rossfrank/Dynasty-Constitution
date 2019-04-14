@@ -160,6 +160,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 | Logan | Matt
 | Graeme | Austin |
 - Playoffs begin week 14 with the championship game occurring week 16.
+- Schedule will be generated with the formula [here](https://gist.github.com/rossfrank/a59e59b59162beb3679d66c7b4e00342)
 
 
 ## __Section VIII - Playoffs__ ##
