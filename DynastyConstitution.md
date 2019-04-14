@@ -1,7 +1,7 @@
 # (League Name Here) Dynasty League Constitution #
 ## Table of Contents
 
-- [League Governence](#section-i---league-governence)
+- [League Governance](#section-i---league-governance)
    - [Commissioner](#league-commissioner)
    - [Co-Commissioners](#co-commissioners)
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
@@ -11,19 +11,17 @@
 - [Free Agency & Trading](#section-v---free-agency--trading)
   - [Free Agency](#free-agency)
   - [Trading](#trades)
-- [Startup Draft](#section-vi---startup-draft)
-- [Rookie Draft](#section-vii---rookie-draft)
-- [Divisions & Schedule](#section-viii---divisions--schedule)
+- [Rookie Draft](#section-vi---rookie-draft)
+- [Divisions & Schedule](#section-vii---divisions--schedule)
    - [Divisions](#divisions)
    - [Schedule](#regular-season-schedule)
-- [Playoffs](#section-ix---playoffs)
+- [Playoffs](#section-viii---playoffs)
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
-- [Scoring](#section-x---scoring)
-<br>
+- [Scoring](#section-ix---scoring)
 <br>
 
-## __Section I - League Governence__ ##
+## __Section I - League Governance__ ##
 
 ### League Commissioner ###
 __Ross Frank__
@@ -137,7 +135,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 
 <br>
 
-## __Section VII - Rookie Draft__ ##
+## __Section VI - Rookie Draft__ ##
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
@@ -161,7 +159,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 
 <br><br>
 
-## __Section VIII - Divisions & Schedule__ ##
+## __Section VII - Divisions & Schedule__ ##
 
 ### Divisions ###
 
@@ -184,7 +182,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 - Playoffs begin week 14 with the championship game occurring week 16.
 
 
-## __Section IX - Playoffs__ ##
+## __Section VIII - Playoffs__ ##
 
 ### Championship Bracket ###
 - The two teams who win their divisions will be assigned to the top two seeds and a bye.
@@ -197,7 +195,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 
 <br>
 
-## __Section X - Scoring__ ##
+## __Section IX - Scoring__ ##
 
 <table>
     <tr>
