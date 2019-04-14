@@ -1,25 +1,4 @@
-# (League Name Here) Dynasty League Constitution #
-## Table of Contents
-
-- [League Governance](#section-i---league-governance)
-   - [Commissioner](#league-commissioner)
-   - [Co-Commissioners](#co-commissioners)
-   - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
-- [League Dues](#section-ii---league-dues)
-- [Payout](#section-iii---payout)
-- [Rosters](#section-iv---rosters)
-- [Free Agency & Trading](#section-v---free-agency--trading)
-  - [Free Agency](#free-agency)
-  - [Trading](#trades)
-- [Rookie Draft](#section-vi---rookie-draft)
-- [Divisions & Schedule](#section-vii---divisions--schedule)
-   - [Divisions](#divisions)
-   - [Schedule](#regular-season-schedule)
-- [Playoffs](#section-viii---playoffs)
-   - [Championship](#championship-bracket)
-   - [Consolation](#consolation-bracket)
-- [Scoring](#section-ix---scoring)
-<br>
+# Red Dez Redemption II Dynasty League Constitution #
 
 ## __Section I - League Governance__ ##
 
