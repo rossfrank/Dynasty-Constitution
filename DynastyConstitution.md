@@ -1,7 +1,7 @@
 # Red Dez Redemption II Dynasty League Constitution #
 
 ## Table of Contents ##
-[League Dues](#__Section II - League Dues__)
+[League Dues](#section-ii---league-dues)
 
 ## __Section I - League Governance__ ##
 
