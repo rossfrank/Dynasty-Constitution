@@ -2,6 +2,7 @@
 
 ## Table of Contents ##
 [League Dues](#section-ii---league-dues)
+[Payout](#section-iii---payout)
 
 ## __Section I - League Governance__ ##
 
@@ -115,6 +116,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 - Trade deadline begins as soon as week 11 starts.
 - Draft picks up to 3 years in the future are tradable.
 - Teams must pay partial dues for any year they trade draft picks in if they decide to leave the league.
+- Picks cannot be given as part of agreements outside of the league
 
 <br>
 
