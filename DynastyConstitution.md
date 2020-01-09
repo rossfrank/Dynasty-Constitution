@@ -60,7 +60,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 
 - After the first year there is a yearly total of $100 that must be paid before the start of the yearly rookie draft for the year after next.
 #### If an Owner decides to leave
-- Partial dues must also be paid for any year a team trades draft picks in according to the table below.
+- Partial dues must also be paid for any year a team trades their own draft picks in according to the table below.
 
 | Pick Round | Percentage of Buy-in |
 |:---:|:---:|
@@ -114,7 +114,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 - Per transaction fee is $0
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the championship ends.
+- Free agency locks after the championship ends.
 
 
 ### Trades ###
