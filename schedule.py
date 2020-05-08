@@ -5,7 +5,8 @@ import time
 
 d1 = ["Ross", "Austin", "Thomas", "Kurt", "Nick"]
 d2 = ["Eric", "Matt", "Logan", "Danny", "Graeme"]
-weeks = ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5", "Week 6", "Week 7", "Week 8", "Week 9", "Week 10", "Week 11", "Week 12"]
+weeks = ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5", "Week 6", "Week 7",
+         "Week 8", "Week 9", "Week 10", "Week 11", "Week 12", "Week 13"]
 rivalry = [("Ross", "Eric"), ("Austin", "Graeme"), ("Kurt", "Danny"), ("Matt", "Logan"), ("Thomas", "Nick")]
 base_schedule = {"Week 1": [],
                  "Week 2": [],
@@ -27,7 +28,7 @@ def build():
     games = []
     for name in d1:
         for opp in d1:
-            temp = (name,opp)
+            temp = (name, opp)
             if not(name is opp) and temp not in rivalry:
                 games.append(temp)
         for opp in d2:
@@ -36,12 +37,13 @@ def build():
                 games.append(temp)
     for name in d2:
         for opp in d2:
-            temp = (name,opp)
+            temp = (name, opp)
             if not(name is opp) and temp not in rivalry:
                 games.append(temp)
     return games
 
 
+# Checks if either team already plays that week
 def check_week(week, name1, name2):
     for g in week:
         if name1 in g or name2 in g:
@@ -49,8 +51,9 @@ def check_week(week, name1, name2):
     return True
 
 
+# Prints nicely
 def pretty_print(schedule):
-    for week in weeks():
+    for week in weeks:
         print week
         for home, away in schedule[week]:
             print home + " v. " + away
@@ -81,12 +84,15 @@ def run():
         while temp_weeks:
             week = random.choice(temp_weeks)
             if check_week(schedule[week], home, away):
+                # If the teams can play schedule them
                 schedule[week].append(game)
+                games.remove(game)
+                # If 8 teams are already scheduled, schedule the last one
                 if len(schedule[week]) is 4:
                     finish_week(schedule, week, games)
-                games.remove(game)
                 break
             temp_weeks.remove(week)
+            # Throw Exception if game can't be scheduled
             if not temp_weeks:
                 raise Exception
     pretty_print(schedule)
@@ -94,6 +100,7 @@ def run():
 
 cnt = 0
 start_time = time.time()
+# Runs until it finds a solution
 while True:
     try:
         run()
@@ -101,5 +108,5 @@ while True:
     except Exception:
         cnt += 1
         continue
-print  str(cnt) + " Fails"
+print str(cnt) + " Fails"
 print("--- %s minutes ---" % ((time.time() - start_time)/60))
