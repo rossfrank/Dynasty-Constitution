@@ -25,22 +25,22 @@ base_schedule = {"Week 1": [],
 
 # Generates a list of games outside of Rivalry week
 def build():
-    games = []
+    game_list = []
     for name in d1:
         for opp in d1:
             temp = (name, opp)
             if not(name is opp) and temp not in rivalry:
-                games.append(temp)
+                game_list.append(temp)
         for opp in d2:
             temp = (name, opp)
             if temp not in rivalry:
-                games.append(temp)
+                game_list.append(temp)
     for name in d2:
         for opp in d2:
             temp = (name, opp)
             if not(name is opp) and temp not in rivalry:
-                games.append(temp)
-    return games
+                game_list.append(temp)
+    return game_list
 
 
 # Checks if either team already plays that week
@@ -73,20 +73,18 @@ def finish_week(schedule, week, games):
     schedule[week].append(game)
 
 
-def run():
+def run(games):
     schedule = copy.deepcopy(base_schedule)
-    games = build()
     random.shuffle(games)
     while games:
-        game = random.choice(games)
+        game = games.pop()
         home, away = game
-        temp_weeks = weeks
+        temp_weeks = schedule.keys()
         while temp_weeks:
             week = random.choice(temp_weeks)
             if check_week(schedule[week], home, away):
                 # If the teams can play schedule them
                 schedule[week].append(game)
-                games.remove(game)
                 # If 8 teams are already scheduled, schedule the last one
                 if len(schedule[week]) is 4:
                     finish_week(schedule, week, games)
@@ -97,16 +95,16 @@ def run():
                 raise Exception
     pretty_print(schedule)
 
-
 cnt = 0
 start_time = time.time()
 # Runs until it finds a solution
+base_games = build()
 while True:
     try:
-        run()
+        games = copy.deepcopy(base_games)
+        run(games)
         break
     except Exception:
         cnt += 1
-        continue
 print str(cnt) + " Fails"
 print("--- %s minutes ---" % ((time.time() - start_time)/60))
