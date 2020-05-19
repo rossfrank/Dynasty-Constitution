@@ -1,3 +1,4 @@
+
 # Red Dez Redemption II Dynasty League Constitution #
 
 ## Table of Contents ##
@@ -38,29 +39,24 @@ __Logan Wells__
 
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
-<br>
 ### Dispute Arbitration ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arises where a clear conflict of interest is apparent the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
-<br>
+The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tie-breaking vote. When an issue arises where a clear conflict of interest is apparent the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
 ### Rule Changes ###
 In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive eight votes.
-<br>
+Voting for rule changes can only happen at the Winter meeting, the Draft.
+The commissioner reserves the right to hold a vote for a temporary rule change outside of these meetings but they only apply until the next meeting
+
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
 
-<br>
-
 ## __Section II - League Dues__ ##
 
-### Entry Fee ###
-- The Entry Fee for the league is $100 per team.
-- Must be paid before the draft (startup or rookie).
-
 ### Yearly Dues ###
-
-- After the first year there is a yearly total of $100 that must be paid before the start of the yearly rookie draft for the year after next.
+- The League Dues for the league is $100 per team.
+- Must be paid before the draft (startup or rookie).
+- 
 #### If an Owner decides to leave
-- Partial dues must also be paid for any year a team trades their own draft picks in according to the table below.
+- Partial dues must also be paid for any year the leaving owner has traded their own draft picks in, in accordance to the table below
 
 | Pick Round | Percentage of Buy-in |
 |:---:|:---:|
@@ -72,19 +68,18 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 
 ## __Section III - Payout__ ##
 
-### Year 1 & 2
-- $80 in Year 1 to MFL
-- $80 to highest weekly winner($5 over 16 weeks)
-- 1st Place: $275
-- 2nd Place: $105
+### ~~Year 1 & 2 (Expired)~~
+- ~~$80 in Year 1 to MFL~~
+- ~~$80 to highest weekly winner($5 over 16 weeks)~~
+- ~~1st Place: $275~~
+- ~~2nd Place: $105~~
 
-### Year 3 and on
+### Year 3 and on (Current)
 - $320 to highest weekly winner($20 over 16 weeks)
 - $440 to winner
 - $240 to second place
 
 Payout will happen at the end of the season according to this [spreadsheet](https://docs.google.com/spreadsheets/d/1pI_kZCV6PL1_BegInj9k8NYy9K3t8II_F9CBNPGOCSI/edit#gid=1674456010)
-<br><br>
 
 ## __Section IV - Rosters__ ##
 
@@ -102,37 +97,55 @@ Payout will happen at the end of the season according to this [spreadsheet](http
    IR | 2 | No Limit
    TAXI | 5 | R + 2nd YR Only
 
+##### Roster Cutdown #####
+All Rosters need to be cutdown to a valid roster the day after the NFL Roster Cutdown day
+This will be announced in #announcements-dynasty before the day
+If Roster cutdown isn't complete by the day after the deadline the commissioner will start cutting players based on the players drafted in the previous draft in reverse order.
+No Commissioner cuts can happen without a warning sent both to the member and the league
 
-<br><br>
+##### IR Rules #####
+- The following statuses will be allowed for IR
+	- Out
+	- Suspended
+	- NA
+	- DNR
+- The following statuses will not be allowed for IR
+	- Doubtful
+
+New statuses are up to the commissioners discretion until the league votes on them
 
 ## __Section V - Free Agency & Trading__ ##
 
-### Free Agency ###
+### Waivers ###
 
-- Free Agency opens on Roster cutdown day
-- Each team will receive $100 for a Free Agency Acquisition Budget
+- Waivers open two days after Roster cutdown day
+- Each team will receive $100 for a Free Agency Acquisition Budget(FAAB)
 - Per transaction fee is $0
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
 - Free agency locks after the championship ends.
+- There is a FAAB penalty of $10 for illegally using FAAB
+
+##### The Danny Rule
+Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 
 
 ### Trades ###
-- Trades will be processed after 24 hours or when a majority votes for no collusion.
+- Trades will be processed after 24 hours or when five members vote for no collusion.
+	- If involved with the trade you are not included in the five members
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as week 11 starts.
-- Draft picks up to 3 years in the future are tradable.
-- Teams must pay partial dues for any year they trade draft picks in if they decide to leave the league.
+- Draft picks up to 3 drafts in the future are tradable.
 - Picks cannot be given as part of agreements outside of the league
-
-<br>
 
 ## __Section VI - Rookie Draft__ ##
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-4 will be assigned off a weighted lottery of the inverse order of the regular season standings.
+- Pick 1 will be assigned off a weighted lottery of the inverse order of the regular season standings.
   -  Order will be determined using http://www.draftpicklottery.com/
+- Picks 2-3 will be the inverse of standings of the rest of the non-playoff participants
+- Rounds 2-5 will stay as reverse order of standings
 
 | Place | Balls | Percentage |
 |:---:|:---:| :---: |
@@ -162,7 +175,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 - The regular season lasts from week 1 to week 13.
 - Teams will play other teams in their division twice and teams outside the division once.
 - The rest of the matches will be randomly determined at the beginning of the season.
-- Week 13 will be Rivalry week with the below matchups
+- Week 3 will be Rivalry week with the below matchups
 
 | Team 1 | Team 2 |
 |:---:|:---:|
@@ -172,7 +185,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 | Logan | Matt
 | Graeme | Austin |
 - Playoffs begin week 14 with the championship game occurring week 16.
-- Schedule will be generated with the formula [here](https://gist.github.com/rossfrank/a59e59b59162beb3679d66c7b4e00342)
+- Schedule will be generated with the formula [here](https://gist.github.com/rossfrank/1aeb0fba04c2b0f46d437a55d0f987d4)
 
 
 ## __Section VIII - Playoffs__ ##
@@ -184,7 +197,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 ### Toilet Bowl ###
 - Seeding will be determined by end of regular season standing for the 4 teams not in the Championship Bracket.
 - The consolation bracket has no bearing on draft order.
-- The winner of the Toilet Bowl will get to wear the toilet seat at the draft.
+- The winner of the Toilet Bowl gets to wear the toilet seat at the draft.
 
 <br>
 
@@ -194,7 +207,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
     <tr>
     <td>Passing</td>
     <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>2</td>
+    <td>.04<br>-2<br>4<br>2</td>
     </tr>
      <tr>
         <td>Rushing</td>
@@ -203,8 +216,8 @@ Payout will happen at the end of the season according to this [spreadsheet](http
       </tr>
       <tr>
         <td>Receiving</td>
-        <td>Catches (CAT)<br>TE Catch Bonus (CATE)<br>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
-        <td>.5<br>.5<br>0.1<br>6<br>2<br>1</td>
+        <td>Each Reception (REC)<br>TE Catch Bonus (CATE)<br>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)</td>
+        <td>.5<br>.5<br>0.1<br>6<br>2</td>
       </tr>
       <tr>
         <td>Miscellaneous </td>
@@ -212,8 +225,8 @@ Payout will happen at the end of the season according to this [spreadsheet](http
         <td>-2<br>6</td>
       </tr>
       <tr>
-        <td>Kicking **TBD** </td>
-        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-30 Yard) (FG0)<br>Yd per Field Goal Made (30 Yd+)<br>Field Goal Missed < 50 Yds (FGM)<br>Field Goal Missed > 50 Yds (FGM)</td>
-        <td>1<br>3<br>0.1<br>-1<br>0</td>
+        <td>Kicking</td>
+        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-30 Yard) (FG0)<br>Yd per Field Goal Made (30 Yd+)<br>Field Goal Missed < 40 Yds (FGM)<br>Field Goal Missed 40 to 50 Yds (FGM)<br>Field Goal Missed > 50 Yds (FGM)</td>
+        <td>1<br>3<br>0.1<br>-1<br>.5<br>0</td>
       </tr>
     </table>
