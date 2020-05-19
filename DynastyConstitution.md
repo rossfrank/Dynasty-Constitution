@@ -144,7 +144,7 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 - The draft order for the rookie draft will be determined based on both regular and post-season results
 - Pick 1 will be assigned off a weighted lottery of the inverse order of the regular season standings.
   -  Order will be determined using http://www.draftpicklottery.com/
-- Picks 2-3 will be the inverse of standings of the rest of the non-playoff participants
+- Picks 2-4 will be the inverse of standings of the rest of the non-playoff participants
 - Rounds 2-5 will stay as reverse order of standings
 
 | Place | Balls | Percentage |
