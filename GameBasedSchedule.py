@@ -5,22 +5,20 @@ import time
 
 d1 = ["Ross", "Austin", "Thomas", "Kurt", "Nick"]
 d2 = ["Eric", "Matt", "Logan", "Danny", "Graeme"]
-weeks = ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5", "Week 6", "Week 7",
-         "Week 8", "Week 9", "Week 10", "Week 11", "Week 12", "Week 13"]
 rivalry = [("Ross", "Eric"), ("Austin", "Graeme"), ("Kurt", "Danny"), ("Matt", "Logan"), ("Thomas", "Nick")]
-base_schedule = {"Week 1": [],
-                 "Week 2": [],
-                 "Week 3": rivalry,
-                 "Week 4": [],
-                 "Week 5": [],
-                 "Week 6": [],
-                 "Week 7": [],
-                 "Week 8": [],
-                 "Week 9": [],
-                 "Week 10": [],
-                 "Week 11": [],
-                 "Week 12": [],
-                 "Week 13": []}
+base_schedule = {1: [],
+                 2: [],
+                 3: rivalry,
+                 4: [],
+                 5: [],
+                 6: [],
+                 7: [],
+                 8: [],
+                 9: [],
+                 10: [],
+                 11: [],
+                 12: [],
+                 13: []}
 
 
 # Generates a list of games outside of Rivalry week
@@ -53,14 +51,14 @@ def check_week(week, name1, name2):
 
 # Prints nicely
 def pretty_print(schedule):
-    for week in weeks:
-        print week
+    for week in range(1,14):
+        print("Week " + week)
         for home, away in schedule[week]:
-            print home + " v. " + away
+            print(home + " v. " + away)
 
 
 # Adds the last game to the week
-def finish_week(schedule, week, games):
+def finish_week(schedule, week):
     teams = d1 + d2
     for g in schedule[week]:
         home, away = g
@@ -73,7 +71,7 @@ def finish_week(schedule, week, games):
     schedule[week].append(game)
 
 
-def run(games):
+def run():
     schedule = copy.deepcopy(base_schedule)
     random.shuffle(games)
     while games:
@@ -87,13 +85,14 @@ def run(games):
                 schedule[week].append(game)
                 # If 8 teams are already scheduled, schedule the last one
                 if len(schedule[week]) is 4:
-                    finish_week(schedule, week, games)
+                    finish_week(schedule, week)
                 break
             temp_weeks.remove(week)
             # Throw Exception if game can't be scheduled
             if not temp_weeks:
                 raise Exception
     pretty_print(schedule)
+
 
 cnt = 0
 start_time = time.time()
@@ -105,6 +104,7 @@ while True:
         run(games)
         break
     except Exception:
+        print(cnt)
         cnt += 1
-print str(cnt) + " Fails"
+print(str(cnt) + " Fails")
 print("--- %s minutes ---" % ((time.time() - start_time)/60))
