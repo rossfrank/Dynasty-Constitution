@@ -79,7 +79,7 @@ The commissioner reserves the right to hold a vote for a temporary rule change o
 - $440 to winner
 - $240 to second place
 
-Payout will happen at the end of the season according to this [spreadsheet](https://docs.google.com/spreadsheets/d/1pI_kZCV6PL1_BegInj9k8NYy9K3t8II_F9CBNPGOCSI/edit#gid=1674456010)
+Payout will happen at the end of the season according to this [spreadsheet](https://docs.google.com/spreadsheets/d/1kUzXOh93gQ2WP02B1gKrtIbW854-rENehNnJsluVPj4/edit?usp=sharing)
 
 ## __Section IV - Rosters__ ##
 
