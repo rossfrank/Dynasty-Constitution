@@ -119,7 +119,7 @@ New statuses are up to the commissioners discretion until the league votes on th
 ### Waivers ###
 
 - Waivers open two days after Roster cutdown day
-- Each team will receive $100 for a Free Agency Acquisition Budget(FAAB)
+- Each team will receive $200 for a Free Agency Acquisition Budget(FAAB)
 - Per transaction fee is $0
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
