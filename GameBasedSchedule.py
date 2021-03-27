@@ -21,6 +21,10 @@ base_schedule = {1: [],
                  13: []}
 
 
+class ScheduleError(Exception):
+    pass
+
+
 # Generates a list of games outside of Rivalry week
 def build():
     game_list = []
@@ -49,62 +53,112 @@ def check_week(week, name1, name2):
     return True
 
 
+def checkGame(games, team1, team2, temp_games):
+    if not check_week(temp_games, team1, team2):
+        return False
+    game = (team1, team2)
+    if game in games:
+        return game
+    game = (team2, team1)
+    if game in games:
+        return game
+    return False
+
 # Prints nicely
 def pretty_print(schedule):
     for week in range(1,14):
-        print("Week " + week)
+        print("Week " + str(week))
         for home, away in schedule[week]:
             print(home + " v. " + away)
 
 
-# Adds the last game to the week
-def finish_week(schedule, week):
+def inner(i, teams, temp_games, games):
+    for j in range(0, len(teams)):
+        if i is j:
+            continue
+        game = checkGame(games, teams[i], teams[j], temp_games)
+        if game:
+            return game
+    return False
+
+
+def getTeamsLeftToPlay(schedule, week, games):
+    cur_week = schedule[week]
     teams = d1 + d2
-    for g in schedule[week]:
-        home, away = g
+    for home, away in schedule[week]:
         teams.remove(home)
         teams.remove(away)
-    game = (teams[0], teams[1])
-    if game not in games:
-        game = (teams[1], games[0])
-    games.remove(game)
-    schedule[week].append(game)
+    random.shuffle(teams)
+    temp_games = []
+    for i in range(0, len(teams)):
+        game = inner(i, teams, temp_games, games)
+        if game:
+            temp_games.append(game)
+        else:
+            continue
+        if (len(temp_games) + len(cur_week)) == 5:
+            for g in temp_games:
+                games.remove(g)
+                schedule[week].append(g)
+            return True
+    raise ScheduleError
 
 
-def run():
-    schedule = copy.deepcopy(base_schedule)
-    random.shuffle(games)
+def getGame(games):
+    return games.pop()
+
+
+def getKeys(dic):
+    return list(dic.keys())
+
+
+def generate(games, schedule):
     while games:
-        game = games.pop()
-        home, away = game
-        temp_weeks = schedule.keys()
+        home, away = getGame(games)
+        temp_weeks = getKeys(schedule)
         while temp_weeks:
             week = random.choice(temp_weeks)
             if check_week(schedule[week], home, away):
                 # If the teams can play schedule them
-                schedule[week].append(game)
-                # If 8 teams are already scheduled, schedule the last one
-                if len(schedule[week]) is 4:
-                    finish_week(schedule, week)
+                schedule[week].append((home, away))
+                if len(schedule[week]) == 2:
+                    getTeamsLeftToPlay(schedule, week, games)
                 break
             temp_weeks.remove(week)
             # Throw Exception if game can't be scheduled
             if not temp_weeks:
-                raise Exception
-    pretty_print(schedule)
+                raise ScheduleError
+    return schedule
 
+
+def run(printing):
+    count = 0
+    while True:
+        try:
+            games = copy.deepcopy(base_games)
+            schedule = copy.deepcopy(base_schedule)
+            random.shuffle(games)
+            schedule = generate(games, schedule)
+            if printing:
+                pretty_print(schedule)
+            break
+        except ScheduleError:
+            # print(cnt)
+            count += 1
+    print(str(count) + " Fails")
+    return count
+
+#params
+runs = 1
+printing = True
 
 cnt = 0
 start_time = time.time()
 # Runs until it finds a solution
 base_games = build()
-while True:
-    try:
-        games = copy.deepcopy(base_games)
-        run(games)
-        break
-    except Exception:
-        print(cnt)
-        cnt += 1
-print(str(cnt) + " Fails")
-print("--- %s minutes ---" % ((time.time() - start_time)/60))
+for x in range(runs):
+    print("Run %s" % x)
+    cnt += run(printing)
+print("--- %s Runs" % runs)
+print("--- %s Fails per Run" % (cnt/runs))
+print("--- %s Seconds" % ((time.time() - start_time)/runs))
