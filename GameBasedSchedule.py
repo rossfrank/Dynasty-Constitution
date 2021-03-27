@@ -149,8 +149,8 @@ def run(printing):
     return count
 
 #params
-runs = 100
-printing = False
+runs = 1
+printing = True
 
 cnt = 0
 start_time = time.time()
