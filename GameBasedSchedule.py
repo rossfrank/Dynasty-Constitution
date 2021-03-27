@@ -149,8 +149,8 @@ def run(printing):
     return count
 
 #params
-runs = 1
-printing = True
+runs = 100
+printing = False
 
 cnt = 0
 start_time = time.time()
@@ -161,4 +161,4 @@ for x in range(runs):
     cnt += run(printing)
 print("--- %s Runs" % runs)
 print("--- %s Fails per Run" % (cnt/runs))
-print("--- %s Seconds" % ((time.time() - start_time)/runs))
+print("--- %s Seconds per Run" % ((time.time() - start_time)/runs))
