@@ -16,26 +16,6 @@
 
 ### League Commissioner ###
 __Ross Frank__
-> (401) 864-8550
-
-### Members ###
-__Austin Cater__
-
-__Matt Dunn__
-
-__Thomas Levine__
-
-__Kurt Marcinkiewicz__
-
-__Danny Messina__
-
-__Graeme Steller__
-
-__Nick Tassoni__
-
-__Eric Tseng__
-
-__Logan Wells__
 
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
