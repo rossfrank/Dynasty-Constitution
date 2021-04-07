@@ -14,9 +14,6 @@
 
 ## __Section I - League Governance__ ##
 
-### League Commissioner ###
-__Ross Frank__
-
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
 ### Dispute Arbitration ###
