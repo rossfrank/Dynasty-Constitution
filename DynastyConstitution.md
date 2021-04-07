@@ -96,6 +96,16 @@ Payout will happen at the end of the season according to this [spreadsheet](http
    BE | 16 | No Limit
    IR | 2 | No Limit
    TAXI | 5 | R + 2nd YR Only
+   
+### New Positions
+- Extra Flex to be added in 2022
+
+##### Kurt Rule (Illegal Linup) #####
+- includes bye
+- 1st 40% min 10 FAAB or skip to 2
+– 2nd penalty 5th round pick (increasing each year you don't have it)
+– can acquire pick before draft night
+– shotgun 5 beers
 
 ##### Roster Cutdown #####
 All Rosters need to be cutdown to a valid roster the day after the NFL Roster Cutdown day
@@ -129,6 +139,11 @@ New statuses are up to the commissioners discretion until the league votes on th
 ##### The Danny Rule
 Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 
+##### Continuous Waivers Game day excemption
+- Out Kickers only
+- Waiver order penalty
+- Must drop kicker
+- Only used on game day if kicker is declared out that day
 
 ### Trades ###
 - Trades will be processed after 24 hours or when five members vote for no collusion.
@@ -142,18 +157,7 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Pick 1 will be assigned off a weighted lottery of the inverse order of the regular season standings.
-  -  Order will be determined using http://www.draftpicklottery.com/
-- Picks 2-4 will be the inverse of standings of the rest of the non-playoff participants
-- Rounds 2-5 will stay as reverse order of standings
-
-| Place | Balls | Percentage |
-|:---:|:---:| :---: |
-| 1 | 35 | 70% |
-| 2 | 9 | 18% |
-| 3 | 4 | 8% |
-| 4 | 2 | 4% |
-
+- Pick 1 will be assigned by Max PF at the end of the regular season according to Sleeper's metrics
 - Picks 5-10 will be assigned in inverse order of the postseason standings
 
 ### Rookie Draft Settings ###
@@ -161,6 +165,10 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 - The rookie draft will take place following the completion of the NFL draft on a day voted on by the league.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
 - Trading draft picks is allowed during the rookie draft
+
+### Rookie Draft Trading Clock
+- 2 minute pause
+- allowed anytime to trade
 
 <br><br>
 
@@ -193,6 +201,7 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 ### Championship Bracket ###
 - The two teams who win their divisions will be assigned to the top two seeds and a bye.
 - The next four teams will be assigned their playoff seeding spot based on regular season record.
+- Playoffs will reseed with the highest seed playing the lowest seed in each round
 
 ### Toilet Bowl ###
 - Seeding will be determined by end of regular season standing for the 4 teams not in the Championship Bracket.
@@ -226,7 +235,7 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
       </tr>
       <tr>
         <td>Kicking</td>
-        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-30 Yard) (FG0)<br>Yd per Field Goal Made (30 Yd+)<br>Field Goal Missed < 40 Yds (FGM)<br>Field Goal Missed 40 to 50 Yds (FGM)<br>Field Goal Missed > 50 Yds (FGM)</td>
-        <td>1<br>3<br>0.1<br>-1<br>.5<br>0</td>
+        <td>Each Extra Point Made (PAT)<br>Each Extra Point Missed (PAT)<br>Each Field Goal Made (0-30 Yard) (FG0)<br>Yd per Field Goal Made (30 Yd+)<br>Field Goal Missed < 40 Yds (FGM)<br>Field Goal Missed 40 to 50 Yds (FGM)<br>Field Goal Missed > 50 Yds (FGM)</td>
+        <td>1<br>-1<br>3<br>0.1<br>-1<br>.5<br>0</td>
       </tr>
     </table>
