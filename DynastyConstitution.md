@@ -14,14 +14,17 @@
 
 ## __Section I - League Governance__ ##
 
-### Commissioner Site Powers ###
-The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
+### Commissioner Powers ###
+- The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
+- The commissioner will enforce the good faith rule as a catch all rule to maintain the integrety of the league
+
 ### Dispute Arbitration ###
 The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tie-breaking vote. When an issue arises where a clear conflict of interest is apparent the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
 ### Rule Changes ###
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive eight votes.
-Voting for rule changes can only happen at the Winter meeting, the Draft.
-The commissioner reserves the right to hold a vote for a temporary rule change outside of these meetings but they only apply until the next meeting
+- In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive seven votes.
+- Voting for rule changes can only happen at the Winter meeting or the Draft.
+- The commissioner reserves the right to update any rules during the season as problems arise that will only apply until the next meeting
+    - The commissioner will look to the league for advice on temporary rule change during the season but as final say
 
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
@@ -31,6 +34,7 @@ The commissioner reserves the right to hold a vote for a temporary rule change o
     - Setting Lineups
     - Trades
     - Waiver pickups
+    - Rule changes
 
 ## __Section II - League Dues__ ##
 
