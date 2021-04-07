@@ -49,12 +49,18 @@ The commissioner reserves the right to hold a vote for a temporary rule change o
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
 
+### Good Faith ###
+- All league members agree to participate in the league in good faith, this includes but is not limited to
+    - Setting Lineups
+    - Trades
+    - Waiver pickups
+
 ## __Section II - League Dues__ ##
 
 ### Yearly Dues ###
 - The League Dues for the league is $100 per team.
 - Must be paid before the draft (startup or rookie).
-- 
+
 #### If an Owner decides to leave
 - Partial dues must also be paid for any year the leaving owner has traded their own draft picks in, in accordance to the table below
 
@@ -83,8 +89,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 
 ## __Section IV - Rosters__ ##
 
-
-   Position | Starters | Maximum
+   Position | Starters | Restrictions
    -------- |--------- | -------
    QB | 1 | No Limit
    RB | 2 | No Limit
@@ -114,12 +119,13 @@ If Roster cutdown isn't complete by the day after the deadline the commissioner 
 No Commissioner cuts can happen without a warning sent both to the member and the league
 
 ##### IR Rules #####
-- The following statuses will be allowed for IR
+- The following statuses will be IR eligible
 	- Out
 	- Suspended
 	- NA
 	- DNR
-- The following statuses will not be allowed for IR
+	- COVID
+- The following statuses will not be IR eligible
 	- Doubtful
 
 New statuses are up to the commissioners discretion until the league votes on them
@@ -169,8 +175,6 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 ### Rookie Draft Trading Clock
 - 2 minute pause
 - allowed anytime to trade
-
-<br><br>
 
 ## __Section VII - Divisions & Schedule__ ##
 
