@@ -16,7 +16,7 @@
 
 ### Commissioner Powers ###
 - The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
-- The commissioner will enforce the good faith rule as a catch all rule to maintain the integrety of the league
+- The commissioner will enforce the good faith rule as a catch all rule to maintain the integrity of the league
 
 ### Dispute Arbitration ###
 The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tie-breaking vote. When an issue arises where a clear conflict of interest is apparent the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
