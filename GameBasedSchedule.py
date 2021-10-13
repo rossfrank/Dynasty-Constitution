@@ -2,15 +2,14 @@ import random
 import copy
 import time
 
-
+week1 = [("Ross", "Matt"), ("Austin", "Graeme"), ("Kurt", "Danny"), ("Nick", "Logan"), ("Thomas", "Eric")]
 d1 = ["Ross", "Austin", "Thomas", "Kurt", "Nick"]
 d2 = ["Eric", "Matt", "Logan", "Danny", "Graeme"]
 rivalry = [("Ross", "Eric"), ("Austin", "Graeme"), ("Kurt", "Danny"), ("Matt", "Logan"), ("Thomas", "Nick")]
-base_schedule = {1: [],
-                 2: [],
-                 3: rivalry,
+base_schedule = {2: [],
+                 3: [],
                  4: [],
-                 5: [],
+                 5: rivalry,
                  6: [],
                  7: [],
                  8: [],
@@ -18,7 +17,8 @@ base_schedule = {1: [],
                  10: [],
                  11: [],
                  12: [],
-                 13: []}
+                 13: [],
+                 14: []}
 
 
 class ScheduleError(Exception):
@@ -66,7 +66,8 @@ def checkGame(games, team1, team2, temp_games):
 
 # Prints nicely
 def pretty_print(schedule):
-    for week in range(1,14):
+    schedule[1] = week1
+    for week in range(1,15):
         print("Week " + str(week))
         for home, away in schedule[week]:
             print(home + " v. " + away)
