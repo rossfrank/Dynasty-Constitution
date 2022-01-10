@@ -121,7 +121,7 @@ New statuses are up to the commissioners discretion until the league votes on th
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
 - Free agency locks after the championship ends.
-- There is a FAAB penalty of $10 for illegally using FAAB
+- There is a FAAB penalty of $10 for illegally using FAAB, including trades
 
 ##### The Danny Rule
 Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
