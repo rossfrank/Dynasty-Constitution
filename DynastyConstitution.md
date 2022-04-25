@@ -39,7 +39,7 @@ The commissioner is the final authority on all league matters, excluding dispute
 ## __Section II - League Dues__ ##
 
 ### Yearly Dues ###
-- The League Dues for the league is $100 per team.
+- The League Dues for the league is $102 per team.
 - Must be paid before the draft (startup or rookie).
 
 #### If an Owner decides to leave
@@ -61,8 +61,13 @@ The commissioner is the final authority on all league matters, excluding dispute
 - ~~1st Place: $275~~
 - ~~2nd Place: $105~~
 
-### Year 3 and on (Current)
+### Year 3 and Year 4 (17 Week schedule)
 - $320 to highest weekly winner($20 over 16 weeks)
+- $440 to winner
+- $240 to second place
+
+### Year 5 and on (Current)
+- $340 to highest weekly winner($20 over 17 weeks)
 - $440 to winner
 - $240 to second place
 
