@@ -2,7 +2,7 @@ import random
 import copy
 import time
 
-week1 = [("Ross", "Matt"), ("Austin", "Graeme"), ("Kurt", "Danny"), ("Nick", "Logan"), ("Thomas", "Eric")]
+week1 = [("Danny", "Kurt"), ("Eric", "Ross"), ("Logan", "Nick"), ("Graeme", "Thomas"), ("Matt", "Austin")]
 d1 = ["Ross", "Austin", "Thomas", "Kurt", "Nick"]
 d2 = ["Eric", "Matt", "Logan", "Danny", "Graeme"]
 rivalry = [("Ross", "Eric"), ("Austin", "Graeme"), ("Kurt", "Danny"), ("Matt", "Logan"), ("Thomas", "Nick")]
@@ -132,7 +132,19 @@ def generate(games, schedule):
     return schedule
 
 
-def run(printing):
+def print_individual(name, schedule):
+    print("\n" + name+"'s Schedule")
+    for week in range (1,15):
+        for t1, t2 in schedule[week]:
+            if t1 is name:
+                print("Week " + str(week) + ": " + t2)
+                break
+            if t2 is name:
+                print("Week " + str(week) + ": " + t1)
+                break
+
+
+def run(is_print):
     count = 0
     while True:
         try:
@@ -140,8 +152,10 @@ def run(printing):
             schedule = copy.deepcopy(base_schedule)
             random.shuffle(games)
             schedule = generate(games, schedule)
-            if printing:
+            if is_print:
                 pretty_print(schedule)
+                for name in d1+d2:
+                    print_individual(name, schedule)
             break
         except ScheduleError:
             # print(cnt)
@@ -149,7 +163,8 @@ def run(printing):
     print(str(count) + " Fails")
     return count
 
-#params
+
+# params
 runs = 1
 printing = True
 
