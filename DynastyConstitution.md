@@ -19,12 +19,13 @@
 - The commissioner will enforce the good faith rule as a catch all rule to maintain the integrity of the league
 
 ### Dispute Arbitration ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tie-breaking vote. When an issue arises where a clear conflict of interest is apparent the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+- The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tie-breaking vote. When an issue arises where a clear conflict of interest is apparent the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+
 ### Rule Changes ###
 - In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive seven votes.
 - Voting for rule changes can only happen at the Winter meeting or the Draft.
 - The commissioner reserves the right to update any rules during the season as problems arise that will only apply until the next meeting
-    - The commissioner will look to the league for advice on temporary rule change during the season but as final say
+    - The commissioner will look to the league for advice on temporary rule change during the season but has final say
 
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
@@ -35,6 +36,12 @@ The commissioner is the final authority on all league matters, excluding dispute
     - Trades
     - Waiver pickups
     - Rule changes
+
+#### Fun Champ Rule ####
+- Champion will be allowed to pick a Fun rule that is voted on at the draft to augment the upcoming season
+  - Can not effect scoring, seeding, waivers, draft picks, or trading in any way
+  - Requires Commissioner approval before league proposal
+  - Must be approved by 7/10 members of the league
 
 ## __Section II - League Dues__ ##
 
@@ -61,13 +68,14 @@ The commissioner is the final authority on all league matters, excluding dispute
 - ~~1st Place: $275~~
 - ~~2nd Place: $105~~
 
-### Year 3 and Year 4 (17 Week schedule)
-- $320 to highest weekly winner($20 over 16 weeks)
-- $440 to winner
-- $240 to second place
+### ~~Year 3 and Year 4 (17 Week schedule)~~
+- ~~$320 to highest weekly winner ($20 over 16 weeks)~~
+- ~~$440 to winner~~
+- ~~$240 to second place~~
 
 ### Year 5 and on (Current)
-- $340 to highest weekly winner($20 over 17 weeks)
+- $340 to highest weekly winner ($20 over 17 weeks)
+  - Ties receive payout
 - $440 to winner
 - $240 to second place
 
@@ -77,21 +85,19 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 
    Position | Starters | Restrictions
    -------- |--------- | -------
-   QB | 1 | No Limit
-   RB | 2 | No Limit
-   WR | 3 | No Limit
-   TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 1 | No Limit
-   SF (QB/RB/WR/TE) | 1 | No Limit
-   K | 1 | No Limit
-   BE | 16 | No Limit
-   IR | 2 | No Limit
+   QB | 1 | N/A
+   RB | 2 | N/A
+   WR | 3 | N/A
+   TE | 1 | N/A
+   FLEX (RB/WR/TE) | 2 | N/A
+   SF (QB/RB/WR/TE) | 1 | N/A
+   K | 1 | N/A
+   BE | 16 | N/A
+   IR | 2 | N/A
    TAXI | 5 | R + 2nd YR Only
-   
-### New Positions
-- Extra Flex to be added in 2022
 
 ##### Kurt Rule (Illegal Linup) #####
+- Only applies to **OUT** players
 - includes bye
 - 1st 40% min 10 FAAB or skip to 2
 – 2nd penalty 5th round pick (increasing each year you don't have it)
@@ -99,9 +105,9 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 – shotgun 5 beers
 
 ##### Roster Cutdown #####
-All Rosters need to be cutdown to a valid roster the day after the NFL Roster Cutdown day
-This will be announced in #announcements-dynasty before the day
-If Roster cutdown isn't complete by the day after the deadline the commissioner will start cutting players based on the players drafted in the previous draft in reverse order.
+- All Rosters need to be cutdown to a valid roster the day after the NFL Roster Cutdown day
+- This will be announced in #announcements-dynasty before the day
+- If Roster cutdown isn't complete by the day after the deadline the commissioner will start cutting players based on the players drafted in the previous draft in reverse order.
 No Commissioner cuts can happen without a warning sent both to the member and the league
 
 ##### IR Rules #####
@@ -120,28 +126,25 @@ New statuses are up to the commissioners discretion until the league votes on th
 
 ### Waivers ###
 
-- Waivers open two days after Roster cutdown day
+- Waivers open two days after Roster cutdown day and one day after the league cutdown day
 - Each team will receive $200 for a Free Agency Acquisition Budget(FAAB)
 - Per transaction fee is $0
-- FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
-- Free agency locks after the championship ends.
-- There is a FAAB penalty of $10 for illegally using FAAB, including trades
+- Waivers lock after the championship ends.
 
 ##### The Danny Rule
-Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
+- Waivers clear daily at 9AM PST based on the [Continuous Waivers](https://blog.sleeper.app/continuous-waivers-and-taxi-squads/) setting on Sleeper
 
 ##### Continuous Waivers Game day excemption
 - Out Kickers only
 - Waiver order penalty
 - Must drop kicker
-- Only used on game day if kicker is declared out that day
+- Only used on game day if kicker is declared out after waivers clear
 
 ### Trades ###
-- Trades will be processed after 24 hours or when five members vote for no collusion.
-	- If involved with the trade you are not included in the five members
-- During the offseason trading is still allowed.
-- Trade deadline begins as soon as week 11 starts.
+- Trades will be processed after 24 hours or when five non-involved members vote for no collusion.
+- Offseason trading is enabled
+- Trade deadline begins as soon as week 12 starts.
 - Draft picks up to 3 drafts in the future are tradable.
 - Picks cannot be given as part of agreements outside of the league
 
@@ -149,7 +152,7 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Pick 1 will be assigned by Max PF at the end of the regular season according to Sleeper's metrics
+- Pick 1-4 will be assigned by Max PF at the end of the regular season according to Sleeper's metrics
 - Picks 5-10 will be assigned in inverse order of the postseason standings
 
 ### Rookie Draft Settings ###
@@ -160,7 +163,7 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 
 ### Rookie Draft Trading Clock
 - 2 minute pause
-- allowed anytime to trade
+- Every member gets one 2 minute draft pause when in active trade discussion 
 
 ## __Section VII - Divisions & Schedule__ ##
 
@@ -170,10 +173,18 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 - Divisions winners will get a Bye in the playoffs
 
 ### Regular Season Schedule ###
-- The regular season lasts from week 1 to week 13.
-- Teams will play other teams in their division twice and teams outside the division once.
-- The rest of the matches will be randomly determined at the beginning of the season.
-- Week 3 will be Rivalry week with the below matchups
+- The regular season lasts from week 1 to week 14.
+
+#### Schedules will be build with the following rules
+
+##### Week 1
+1. Each team will play the team that finishes in the same divisional position of them in the other division
+
+##### Between Week 2-15
+1. Matchups will be randomized according to the formula [here](https://gist.github.com/rossfrank/1aeb0fba04c2b0f46d437a55d0f987d4)
+1. Each team will play the other teams in their division twice
+2. Each team will play the teams in the other division once
+3. Week 3 will be Rivalry week with the below matchups
 
 | Team 1 | Team 2 |
 |:---:|:---:|
@@ -182,9 +193,8 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 | Ross | Eric |
 | Logan | Matt
 | Graeme | Austin |
-- Playoffs begin week 14 with the championship game occurring week 16.
-- Schedule will be generated with the formula [here](https://gist.github.com/rossfrank/1aeb0fba04c2b0f46d437a55d0f987d4)
 
+- Playoffs begin week 15 with the championship game occurring week 17.
 
 ## __Section VIII - Playoffs__ ##
 
@@ -196,7 +206,7 @@ Waivers clear daily based on the **Continuous Waivers** setting on Sleeper
 ### Toilet Bowl ###
 - Seeding will be determined by end of regular season standing for the 4 teams not in the Championship Bracket.
 - The consolation bracket has no bearing on draft order.
-- The winner of the Toilet Bowl gets to wear the toilet seat at the draft.
+- The winner of the Toilet Bowl gets to wear the toilet seat at the draft and pays for the championship trophy plaque.
 
 <br>
 
