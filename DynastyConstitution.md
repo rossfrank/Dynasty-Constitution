@@ -96,7 +96,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
    IR | 2 | N/A
    TAXI | 5 | R + 2nd YR Only
 
-##### Kurt Rule (Illegal Linup) #####
+##### Kurt Rule (Illegal Lineup) #####
 - Only applies to **OUT** players
 - includes bye
 - 1st 40% min 10 FAAB or skip to 2
