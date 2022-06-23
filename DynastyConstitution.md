@@ -1,5 +1,5 @@
 
-# Red Dez Redemption II Dynasty League Constitution #
+# Red Dez Redemption IV Dynasty League Constitution #
 
 ## Table of Contents ##
 [League Governance](#section-i---league-governance)\
