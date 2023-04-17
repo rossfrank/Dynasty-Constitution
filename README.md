@@ -1,6 +1,6 @@
 
 # Red Dez Redemption IV Dynasty League Constitution #
-[League Website](https://reddezredemption.com/)
+[League Website](https://reddezredemption.com/)\
 [League on Sleeper](https://sleeper.com/leagues/916388172739919872)
 
 ## Table of Contents ##
