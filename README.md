@@ -29,6 +29,10 @@
 - The commissioner reserves the right to update any rules during the season as problems arise that will only apply until the next meeting
     - The commissioner will look to the league for advice on temporary rule change during the season but has final say
 
+### Constitution Maintenance ###
+- The constitution will be maintained in this repository by Matt, Ross, and Thomas.
+- All pull requests require approval by another member of the maintenance group.
+
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
 
