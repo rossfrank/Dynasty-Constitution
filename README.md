@@ -30,7 +30,7 @@
     - The commissioner will look to the league for advice on temporary rule change during the season but has final say
 
 ### Constitution Maintenance ###
-- The constitution will be maintained in this repository by Thomas, Ross, and Matt.
+- The constitution will be maintained in this repository by Matt, Ross, and Thomas.
 - All pull requests require approval by another member of the maintenance group.
 
 ### Collusion ###
