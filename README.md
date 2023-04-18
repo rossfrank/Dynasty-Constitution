@@ -144,11 +144,13 @@ New statuses are up to the commissioners discretion until the league votes on th
 - Only used on game day if kicker is declared out after waivers clear
 
 ### Trades ###
-- Trades will be processed after 24 hours or when five non-involved members vote for no collusion.
-- Offseason trading is enabled
-- Trade deadline begins as soon as week 12 starts.
+- Trades will be processed immediately.
+- Any league member can request a collusion vote, in which 5 votes out of the non-trading members will be required to overturn the trade.
+- Trades are allowed all year, including the offseason, except during the Trade Embargo Period.
+- The Trade Embargo Period is from the conclusion of Week 12 until the new league is created.
+- The legal tampering period is after the conclusion of the championship game but prior to the new league being created.
 - Draft picks up to 3 drafts in the future are tradable.
-- Picks cannot be given as part of agreements outside of the league
+- Picks and players cannot be bartered, traded, or lended as part of agreements outside of the league.
 
 ## __Section VI - Rookie Draft__ ##
 
