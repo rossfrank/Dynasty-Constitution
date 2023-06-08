@@ -8,8 +8,8 @@ d2 = ["Eric", "Matt", "Logan", "Danny", "Graeme"]
 rivalry = [("Ross", "Eric"), ("Austin", "Graeme"), ("Kurt", "Danny"), ("Matt", "Logan"), ("Thomas", "Nick")]
 base_schedule = {2: [],
                  3: [],
-                 4: [],
-                 5: rivalry,
+                 4: rivalry,
+                 5: [],
                  6: [],
                  7: [],
                  8: [],
