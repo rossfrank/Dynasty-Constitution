@@ -113,6 +113,10 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 – can acquire a pick before draft night
 – shotgun 5 beers
 
+##### Conditional Lineups #####
+- If a game is stopped or listed as no contest by the NFL and a player from that game is in the starting lineup, the score for that player will reflect the highest projected pregame score for a player on the roster
+  	- Replacing player can be from the bench
+
 ##### Roster Cutdown #####
 - All Rosters need to be cut to a valid roster by 8 PM Eastern the day after the NFL Roster Cutdown day
 - The date will be announced in #announcements-dynasty after the draft
