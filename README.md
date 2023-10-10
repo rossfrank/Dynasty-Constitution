@@ -111,10 +111,10 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 – shotgun 5 beers
 
 ##### Roster Cutdown #####
-- All Rosters need to be cutdown to a valid roster the day after the NFL Roster Cutdown day
-- This will be announced in #announcements-dynasty before the day
-- If Roster cutdown isn't complete by the day after the deadline the commissioner will start cutting players based on the players drafted in the previous draft in reverse order.
-No Commissioner cuts can happen without a warning sent both to the member and the league
+- All Rosters need to be cut to a valid roster by 8PM Eastern the day after the NFL Roster Cutdown day
+- The date will be announced in #announcements-dynasty after the draft
+- If roster cutdown isn't complete by the day after the deadline the commissioner will start cutting players based on the players drafted in the previous draft in reverse order.
+- No Commissioner cuts can happen without a warning sent to both the member and the league
 
 ##### IR Rules #####
 - The following statuses will be IR eligible
@@ -132,7 +132,7 @@ New statuses are up to the commissioners discretion until the league votes on th
 
 ### Waivers ###
 
-- Waivers open two days after Roster cutdown day and one day after the league cutdown day
+- Waivers open two days after the league cutdown day at the normal time while guaranteeing at least 24 hours between league cutdown day and waivers opening
 - Each team will receive $200 for a Free Agency Acquisition Budget(FAAB)
 - Per transaction fee is $0
 - There is a two Day waiting period for waivers to clear
