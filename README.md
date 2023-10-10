@@ -48,6 +48,9 @@
   - Can not affect scoring, seeding, waivers, draft picks, or trading in any way
   - Requires Commissioner approval before league proposal
   - Must be approved by 7/10 members of the league
+ 
+#### League Name ####
+- League name will be updated to reflect the number of years the league has operated
 
 ## __Section II - League Dues__ ##
 
