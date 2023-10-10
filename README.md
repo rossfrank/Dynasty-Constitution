@@ -139,7 +139,7 @@ New statuses are up to the commissioners discretion until the league votes on th
 - Waivers lock after the championship ends.
 
 ##### The Danny Rule
-- Waivers clear daily at 3AM PST based on the [Continuous Waivers](https://blog.sleeper.app/continuous-waivers-and-taxi-squads/) setting on Sleeper
+- Waivers clear daily at 4AM PST based on the [Continuous Waivers](https://blog.sleeper.app/continuous-waivers-and-taxi-squads/) setting on Sleeper
 
 ##### Continuous Waivers Game day excemption
 - Out Kickers only
