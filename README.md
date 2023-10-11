@@ -1,4 +1,3 @@
-
 # Red Dez Redemption IV Dynasty League Constitution #
 [League Website](https://reddezredemption.com/)\
 [League on Sleeper](https://sleeper.com/leagues/916388172739919872)
@@ -109,7 +108,9 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 - Only applies to **OUT** players
 - includes bye
 - 1st 40% min 10 FAAB or skip to 2
-– 2nd penalty 5th round pick (increasing each year you don't have it)
+- The following penalties are draft picks in the upcoming year
+	- Starts at 5th round but increases round with each penalty or pick the offender doesn't have
+   	- Subsequent penalties will increase as well (3rd penalty is a 4th round pick, 4th penalty is a 3rd round pick, etc.)
 – can acquire a pick before draft night
 – shotgun 5 beers
 
@@ -142,7 +143,7 @@ New statuses are up to the commissioners' discretion until the league votes on t
 - Waivers open two days after the league cutdown day at the normal time while guaranteeing at least 24 hours between league cutdown day and waiver opening
 - Each team will receive $200 for a Free Agency Acquisition Budget(FAAB)
 - Per transaction fee is $0
-- There is a two day waiting period for waivers to clear
+- There is a two-day waiting period for waivers to clear
 - Waivers lock after the championship ends.
 
 ##### The Danny Rule
@@ -194,11 +195,12 @@ New statuses are up to the commissioners' discretion until the league votes on t
 ##### Week 1
 1. Each team will play the team that finishes in the same divisional position as the other division
 
-##### Between Week 2-15
+##### Between Week 2-14
 1. Matchups will be randomized according to the formula [here](https://gist.github.com/rossfrank/1aeb0fba04c2b0f46d437a55d0f987d4)
 1. Each team will play the other teams in their division twice
 2. Each team will play the teams in the other division once
-3. Week 3 will be Rivalry week with the below matchups
+3. The last week before bye weeks start will be rivalry week with the below matchups
+	- Matchup counts to the above rules (ex. Ross & Eric will only play on rivalry week between weeks 2 & 14)
 
 | Team 1 | Team 2 |
 |:---:|:---:|
