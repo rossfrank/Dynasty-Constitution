@@ -106,7 +106,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 
 ##### Kurt Rule (Illegal Lineup) #####
 - Only applies to **OUT** players
-	- If there is a legitimate effort to try and start a player and is unsuccessful either due to another owner or dumb luck, there will be no docking penalty. The commissioner is the final authority on what classifies as best effort.
+	- If there is a legitimate effort to try and start a player and is unsuccessful either due to another owner or dumb luck, there will be no penalty. The commissioner is the final authority on what classifies as best effort.
 - includes bye
 - 1st 40% min 10 FAAB or skip to 2
 - The following penalties are draft picks in the upcoming year
