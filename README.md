@@ -223,7 +223,7 @@ New statuses are up to the commissioners' discretion until the league votes on t
 ### Toilet Bowl ###
 - Seeding will be determined by the end of the regular season standings for the 4 teams not in the Championship Bracket
 - The consolation bracket has no bearing on the draft order
-- The winner of the Toilet Bowl gets to wear the toilet seat at the draft and pays for the championship trophy plaque
+- The winner of the Toilet Bowl must wear the toilet seat at the draft and pays for the championship trophy plaque
 
 <br>
 
