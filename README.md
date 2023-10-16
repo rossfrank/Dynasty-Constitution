@@ -1,4 +1,3 @@
-
 # Red Dez Redemption IV Dynasty League Constitution #
 [League Website](https://reddezredemption.com/)\
 [League on Sleeper](https://sleeper.com/leagues/916388172739919872)
@@ -17,27 +16,27 @@
 ## __Section I - League Governance__ ##
 
 ### Commissioner Powers ###
-- The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
-- The commissioner will enforce the good faith rule as a catch all rule to maintain the integrity of the league
+- The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally, the commissioner can pause/resume the draft and set/remove draft picks for teams.
+- The commissioner will enforce the good faith rule as a catch-all rule to maintain the integrity of the league
 
 ### Dispute Arbitration ###
-- The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tie-breaking vote. When an issue arises where a clear conflict of interest is apparent the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+- The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie, the commissioner will always have the tie-breaking vote. When an issue arises with a clear conflict of interest, the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
 
 ### Rule Changes ###
 - In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive seven votes.
-- Voting for rule changes can only happen at the Winter meeting or the Draft.
+- Voting for rule changes can only happen at the Winter or Draft meetings.
 - The commissioner reserves the right to update any rules during the season as problems arise that will only apply until the next meeting
-    - The commissioner will look to the league for advice on temporary rule change during the season but has final say
+- The commissioner will look to the league for advice on temporary rule changes during the season but has final discretion
 
 ### Constitution Maintenance ###
-- The constitution will be maintained in this repository by Matt, Ross, and Thomas.
+- Matt, Ross, and Thomas will maintain the constitution in this repository.
 - All pull requests require approval by another member of the maintenance group.
 
 ### Collusion ###
-**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
+**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion, and guilty parties will be reprimanded.**
 
 ### Good Faith ###
-- All league members agree to participate in the league in good faith, this includes but is not limited to
+- All league members agree to participate in the league in good faith; this includes but is not limited to
     - Setting Lineups
     - Trades
     - Waiver pickups
@@ -45,9 +44,12 @@
 
 #### Fun Champ Rule ####
 - Champion will be allowed to pick a Fun rule that is voted on at the draft to augment the upcoming season
-  - Can not effect scoring, seeding, waivers, draft picks, or trading in any way
+  - Can not affect scoring, seeding, waivers, draft picks, or trading in any way
   - Requires Commissioner approval before league proposal
   - Must be approved by 7/10 members of the league
+ 
+#### League Name ####
+- League name will be updated to reflect the number of years the league has operated
 
 ## __Section II - League Dues__ ##
 
@@ -56,7 +58,7 @@
 - Must be paid before the draft (startup or rookie).
 
 #### If an Owner decides to leave
-- Partial dues must also be paid for any year the leaving owner has traded their own draft picks in, in accordance to the table below
+- Partial dues must also be paid for any year the leaving owner has traded their own draft picks in, in accordance with the table below
 
 | Pick Round | Percentage of Buy-in |
 |:---:|:---:|
@@ -81,7 +83,7 @@
 
 ### Year 5 and on (Current)
 - $340 to highest weekly winner ($20 over 17 weeks)
-  - Ties receive payout
+  - Ties split the weekly payout instead of the highest scorer
 - $440 to winner
 - $240 to second place
 
@@ -104,48 +106,55 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 
 ##### Kurt Rule (Illegal Lineup) #####
 - Only applies to **OUT** players
+	- If there is a legitimate effort to try and start a player and is unsuccessful either due to another owner or dumb luck, there will be no penalty. The commissioner is the final authority on what classifies as best effort.
 - includes bye
 - 1st 40% min 10 FAAB or skip to 2
-– 2nd penalty 5th round pick (increasing each year you don't have it)
-– can acquire pick before draft night
+- The following penalties are draft picks in the upcoming year
+	- Starts at 5th round but increases round with each penalty or pick the offender doesn't have
+   	- Subsequent penalties will increase as well (3rd penalty is a 4th round pick, 4th penalty is a 3rd round pick, etc.)
+– can acquire a pick before draft night
 – shotgun 5 beers
 
+##### Conditional Lineups #####
+- If a game is stopped or listed as no contest by the NFL and a player from that game is in the starting lineup, the score for that player will reflect the highest projected pregame score for a player on the roster
+  	- Replacing player can be from the bench
+
 ##### Roster Cutdown #####
-- All Rosters need to be cutdown to a valid roster the day after the NFL Roster Cutdown day
-- This will be announced in #announcements-dynasty before the day
-- If Roster cutdown isn't complete by the day after the deadline the commissioner will start cutting players based on the players drafted in the previous draft in reverse order.
-No Commissioner cuts can happen without a warning sent both to the member and the league
+- All Rosters need to be cut to a valid roster by 8 PM Eastern the day after the NFL Roster Cutdown day
+- The date will be announced in #announcements-dynasty after the draft
+- If roster cutdown isn't complete by the day after the deadline, the commissioner will start cutting players based on the players drafted in the previous draft in reverse order.
+- No Commissioner cuts can happen without a warning sent to both the member and the league
 
 ##### IR Rules #####
-- The following statuses will be IR eligible
+- The following statuses will be IR-eligible
 	- Out
 	- Suspended
 	- NA
 	- DNR
 	- COVID
-- The following statuses will not be IR eligible
+- The following statuses will not be IR-eligible
 	- Doubtful
 
-New statuses are up to the commissioners discretion until the league votes on them
+New statuses are up to the commissioners' discretion until the league votes on them
 
 ## __Section V - Free Agency & Trading__ ##
 
 ### Waivers ###
 
-- Waivers open two days after Roster cutdown day and one day after the league cutdown day
+- Waivers open two days after the league cutdown day at the normal time while guaranteeing at least 24 hours between league cutdown day and waiver opening
 - Each team will receive $200 for a Free Agency Acquisition Budget(FAAB)
 - Per transaction fee is $0
-- There is a two Day waiting period for waivers to clear
+- There is a two-day waiting period for waivers to clear
 - Waivers lock after the championship ends.
 
 ##### The Danny Rule
-- Waivers clear daily at 3AM PST based on the [Continuous Waivers](https://blog.sleeper.app/continuous-waivers-and-taxi-squads/) setting on Sleeper
+- Waivers clear daily at 4 AM PST based on the [Continuous Waivers](https://blog.sleeper.app/continuous-waivers-and-taxi-squads/) setting on Sleeper
 
-##### Continuous Waivers Game day excemption
+##### Continuous Waivers Game day exemption
 - Out Kickers only
 - Waiver order penalty
 - Must drop kicker
-- Only used on game day if kicker is declared out after waivers clear
+- Only used on game day if owner's kicker is declared out after waivers clear
 
 ### Trades ###
 - Trades will be processed immediately.
@@ -154,7 +163,7 @@ New statuses are up to the commissioners discretion until the league votes on th
 - The Trade Embargo Period is from the conclusion of Week 12 until the new league is created.
 - The legal tampering period is after the conclusion of the championship game but prior to the new league being created.
 - Draft picks up to 3 drafts in the future are tradable.
-- Picks and players cannot be bartered, traded, or lended as part of agreements outside of the league.
+- Picks and players cannot be bartered, traded, or lent as part of agreements outside of the league.
 
 ## __Section VI - Rookie Draft__ ##
 
@@ -166,33 +175,33 @@ New statuses are up to the commissioners discretion until the league votes on th
 ### Rookie Draft Settings ###
 - There will be 5 rounds of the rookie draft.
 - The rookie draft will take place following the completion of the NFL draft on a day voted on by the league.
-- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
+- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01, etc.)
 - Trading draft picks is allowed during the rookie draft
 
 ### Rookie Draft Trading Clock
-- 2 minute pause
-- Every member gets one 2 minute draft pause when in active trade discussion 
+- Every member gets one 2-minute draft pause when in active trade discussion 
 
 ## __Section VII - Divisions & Schedule__ ##
 
 ### Divisions ###
 
 - There will be two divisions that teams will be randomly assigned to upon joining the league.
-- Divisions winners will get a Bye in the playoffs
+- Division winners will get a Bye in the playoffs
 
 ### Regular Season Schedule ###
 - The regular season lasts from week 1 to week 14.
 
-#### Schedules will be build with the following rules
+#### Schedules will be built with the following rules
 
 ##### Week 1
-1. Each team will play the team that finishes in the same divisional position of them in the other division
+1. Each team will play the team that finishes in the same divisional position as the other division
 
-##### Between Week 2-15
+##### Between Week 2-14
 1. Matchups will be randomized according to the formula [here](https://gist.github.com/rossfrank/1aeb0fba04c2b0f46d437a55d0f987d4)
 1. Each team will play the other teams in their division twice
 2. Each team will play the teams in the other division once
-3. Week 3 will be Rivalry week with the below matchups
+3. The last week before bye weeks start will be rivalry week with the below matchups
+	- Matchup counts to the above rules (ex. Ross & Eric will only play on rivalry week between weeks 2 & 14)
 
 | Team 1 | Team 2 |
 |:---:|:---:|
@@ -202,19 +211,19 @@ New statuses are up to the commissioners discretion until the league votes on th
 | Logan | Matt
 | Graeme | Austin |
 
-- Playoffs begin week 15 with the championship game occurring week 17.
+- The playoffs begin in week 15, with the championship game occurring on week 17.
 
 ## __Section VIII - Playoffs__ ##
 
 ### Championship Bracket ###
-- The two teams who win their divisions will be assigned to the top two seeds and a bye.
-- The next four teams will be assigned their playoff seeding spot based on regular season record.
+- The two teams who win their divisions will be assigned to the top two seeds and a bye
+- The next four teams will be assigned their playoff seeding spot based on regular season records
 - Playoffs will reseed with the highest seed playing the lowest seed in each round
 
 ### Toilet Bowl ###
-- Seeding will be determined by end of regular season standing for the 4 teams not in the Championship Bracket.
-- The consolation bracket has no bearing on draft order.
-- The winner of the Toilet Bowl gets to wear the toilet seat at the draft and pays for the championship trophy plaque.
+- Seeding will be determined by the end of the regular season standings for the 4 teams not in the Championship Bracket
+- The consolation bracket has no bearing on the draft order
+- The winner of the Toilet Bowl must wear the toilet seat at the draft and pays for the championship trophy plaque
 
 <br>
 
