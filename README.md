@@ -107,6 +107,9 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 ##### Kurt Rule (Illegal Lineup) #####
 - Only applies to **OUT** players
 	- If there is a legitimate effort to try and start a player and is unsuccessful either due to another owner or dumb luck, there will be no penalty. The commissioner is the final authority on what classifies as best effort.
+   	- Backup QBs do are the exception and will still trigger the Kurt Rule. If good faith measures are taken to acquire a QB, the rule will not be enforced. These include:
+   		- Making a trade for a QB who has a reasonable chance to start (ex. a backup where the QB is questionable with an injury)
+   		- Putting a waiver claim in on a starting QB, and being outbid.
 - includes bye
 - 1st 40% min 10 FAAB or skip to 2
 - The following penalties are draft picks in the upcoming year
