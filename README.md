@@ -106,17 +106,17 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 
 ##### Kurt Rule (Illegal Lineup) #####
 - Only applies to **OUT** players
-	- If there is a legitimate effort to try and start a player and is unsuccessful either due to another owner or dumb luck, there will be no penalty. The commissioner is the final authority on what classifies as best effort.
-   	- Backup QBs do are the exception and will still trigger the Kurt Rule. If good faith measures are taken to acquire a QB, the rule will not be enforced. These include:
+	- Backup QBs will still trigger the Kurt Rule.
+	- If there is a legitimate effort to try and start a player and is unsuccessful either due to another owner or dumb luck (excluding starting a Q player on MNF), there will be no penalty. The commissioner is the final authority on what classifies as best effort. Examples include:
    		- Making a trade for a QB who has a reasonable chance to start (ex. a backup where the QB is questionable with an injury)
-   		- Putting a waiver claim in on a starting QB, and being outbid.
+   		- Putting a waiver claim in on a starting QB and being outbid
 - includes bye
 - 1st 40% min 10 FAAB or skip to 2
 - The following penalties are draft picks in the upcoming year
 	- Starts at 5th round but increases round with each penalty or pick the offender doesn't have
    	- Subsequent penalties will increase as well (3rd penalty is a 4th round pick, 4th penalty is a 3rd round pick, etc.)
 – can acquire a pick before draft night
-– shotgun 5 beers
+– shotgun five beers
 
 ##### Conditional Lineups #####
 - If a game is stopped or listed as no contest by the NFL and a player from that game is in the starting lineup, the score for that player will reflect the highest projected pregame score for a player on the roster
@@ -125,7 +125,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
 ##### Roster Cutdown #####
 - All Rosters need to be cut to a valid roster by 8 PM Eastern the day after the NFL Roster Cutdown day
 - The date will be announced in #announcements-dynasty after the draft
-- If roster cutdown isn't complete by the day after the deadline, the commissioner will start cutting players based on the players drafted in the previous draft in reverse order.
+- If the roster cutdown isn't complete by the day after the deadline, the commissioner will start cutting players based on the players drafted in the previous draft in reverse order.
 - No Commissioner cuts can happen without a warning sent to both the member and the league
 
 ##### IR Rules #####
