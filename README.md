@@ -105,7 +105,7 @@ Payout will happen at the end of the season according to this [spreadsheet](http
    TAXI | 5 | R + 2nd YR Only
 
 ##### Kurt Rule (Illegal Lineup) #####
-- Only applies to **OUT** players
+- Applies to **OUT** or **BYE** players
 	- Backup QBs will still trigger the Kurt Rule.
 	- If there is a legitimate effort to try and start a player and is unsuccessful either due to another owner or dumb luck (excluding starting a Q player on MNF), there will be no penalty. The commissioner is the final authority on what classifies as best effort. Examples include:
    		- Making a trade for a QB who has a reasonable chance to start (ex. a backup where the QB is questionable with an injury)
