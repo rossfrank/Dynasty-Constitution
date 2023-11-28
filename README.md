@@ -237,7 +237,7 @@ New statuses are up to the commissioners' discretion until the league votes on t
 - Player must do at least one point scoring action (positive or negative points)
 - Examples
   	- Plays that count:
-  	  	- Any play that negates it's self (1 carry for zero yards, 1 catch for -5 yards)
+  	  	- Any play that negates itself (1 carry for zero yards, 1 catch for -5 yards)
   	  	- Fumbles
   	- Plays that don't count
   		- Targets
