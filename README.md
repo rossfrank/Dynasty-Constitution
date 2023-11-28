@@ -164,7 +164,7 @@ New statuses are up to the commissioners' discretion until the league votes on t
 - Any league member can request a collusion vote, in which 5 votes out of the non-trading members will be required to overturn the trade.
 - Trades are allowed all year, including the offseason, except during the Trade Embargo Period.
 - The Trade Embargo Period is from the conclusion of Week 12 until the new league is created.
-- The legal tampering period is after the conclusion of the championship game but prior to the new league being created.
+- The legal tampering period is after the championship game's conclusion but before the new league is created.
 - Draft picks up to 3 drafts in the future are tradable.
 - Picks and players cannot be bartered, traded, or lent as part of agreements outside of the league.
 
@@ -214,7 +214,7 @@ New statuses are up to the commissioners' discretion until the league votes on t
 | Logan | Matt
 | Graeme | Austin |
 
-- The playoffs begin in week 15, with the championship game occurring on week 17.
+- The playoffs begin in week 15, with the championship game occurring in week 17.
 
 ## __Section VIII - Playoffs__ ##
 
@@ -226,9 +226,31 @@ New statuses are up to the commissioners' discretion until the league votes on t
 ### Toilet Bowl ###
 - Seeding will be determined by the end of the regular season standings for the 4 teams not in the Championship Bracket
 - The consolation bracket has no bearing on the draft order
-- The winner of the Toilet Bowl must wear the toilet seat at the draft and pays for the championship trophy plaque
+- The winner of the Toilet Bowl must wear the toilet seat at the draft and pay for the championship trophy plaque
 
-<br>
+### Golf ###
+- Takes place Championship week for teams not participating in the championship (Week 17)
+- The lowest score wins the $20 weekly prize
+**Rules**
+- If a player doesn't play any snaps, then the owner is disqualified
+- If a player doesn't score any points but plays a snap, then they receive 20 points
+- Player must do at least one point scoring action (positive or negative points)
+- Examples
+  	- Plays that count:
+  	  	- Any play that negates itself (1 carry for zero yards, 1 catch for -5 yards)
+  	  	- Fumbles
+  	- Plays that don't count
+  		- Targets
+
+### Pro Bowl ###
+- The Pro Bowl takes place in week 18
+- Division winners are captains and draft teams in a snake format
+	- 1 seed determines which pick they want
+- Every roster must be represented
+- No team can have more than 3 players
+- Losing division buys lunch at the draft
+- If you don't attend the draft, you are still responsible for paying for lunch
+- If you are on the winning team and don't attend the draft, you don't receive any compensation
 
 ## __Section IX - Scoring__ ##
 
