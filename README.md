@@ -231,16 +231,16 @@ New statuses are up to the commissioners' discretion until the league votes on t
 ### Golf ###
 - Takes place Championship week for teams not participating in the championship (Week 17)
 - The lowest score wins the $20 weekly prize
-**Rules**
+#### Golf Rules ####
 - If a player doesn't play any snaps, then the owner is disqualified
 - If a player doesn't score any points but plays a snap, then they receive 20 points
 - Player must do at least one point scoring action (positive or negative points)
 - Examples
-  	- Plays that count:
-  	  	- Any play that negates itself (1 carry for zero yards, 1 catch for -5 yards)
-  	  	- Fumbles
-  	- Plays that don't count
-  		- Targets
+	- Plays that count:
+		- Any play that negates itself (1 carry for zero yards, 1 catch for -5 yards)
+		- Fumbles
+	- Plays that don't count
+		- Targets
 
 ### Pro Bowl ###
 - The Pro Bowl takes place in week 18
