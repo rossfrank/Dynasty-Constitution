@@ -122,7 +122,7 @@ def generate(games, schedule):
             if check_week(schedule[week], home, away):
                 # If the teams can play schedule them
                 schedule[week].append((home, away))
-                if len(schedule[week]) == 2:
+                if len(schedule[week]) == 3:
                     getTeamsLeftToPlay(schedule, week, games)
                 break
             temp_weeks.remove(week)
