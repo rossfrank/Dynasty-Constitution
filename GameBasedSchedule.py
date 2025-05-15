@@ -2,7 +2,7 @@ import random
 import copy
 import time
 
-week1 = [("Eric", "Ross"), ("Graeme", "Thomas"), ("Matt", "Austin"), ("Danny", "Kurt"), ("Logan", "Nick")]
+week1 = [("Danny", "Ross"), ("Graeme", "Nick"), ("Matt", "Thomas"), ("Eric", "Austin"), ("Logan", "Kurt")]
 d1 = ["Ross", "Austin", "Thomas", "Kurt", "Nick"]
 d2 = ["Eric", "Matt", "Logan", "Danny", "Graeme"]
 rivalry = [("Ross", "Eric"), ("Austin", "Graeme"), ("Kurt", "Danny"), ("Matt", "Logan"), ("Thomas", "Nick")]
