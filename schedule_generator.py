@@ -13,7 +13,7 @@ double_play_pairs = [
     ('Kurt', 'Austin'), ('Kurt', 'Thomas'), ('Kurt', 'Nick'), ('Kurt', 'Ross'), ('Austin', 'Thomas'),
     ('Austin', 'Nick'), ('Austin', 'Ross'), ('Thomas', 'Nick'), ('Thomas', 'Ross'), ('Nick', 'Ross'),
 
-    ('Danny', 'Ross'), ('Graeme', 'Nick'), ('Matt', 'Thomas'), ('Eric', 'Austin'), ('Logan', 'Kurt')
+    ("Graeme", "Thomas"), ("Danny", "Nick"), ("Matt", "Ross"), ("Logan", "Austin"), ("Eric", "Kurt")
 ]
 
 # Define the specific matchups for designated weeksa
